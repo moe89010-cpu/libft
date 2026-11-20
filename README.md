@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <mohaalho>.*
+*This project has been created as part of the 42 curriculum by mohaalho.*
 
 # Libft
 
@@ -114,4 +114,4 @@ norminette *.c libft.h
 ## Author
 
 42 login : mohaalho
-42 Abu Dhabi -Libft
+42 Abu Dhabi Libft
